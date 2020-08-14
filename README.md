@@ -49,8 +49,6 @@ Put music file in static/music/
 
 ## css
 
-```
-
 ### rainbow
 
 ```
