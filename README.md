@@ -77,4 +77,4 @@ Put music file in static/music/
 
 ### Appearance
 
-[Please see this homepage](https://mustyideas.tokyo/dark_past/)
+[Please see this homepage](https://mustyideas.tokyo/dark_past/)(be careful. Music is played on this site.)
