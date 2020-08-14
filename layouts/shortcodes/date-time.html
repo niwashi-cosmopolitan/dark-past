@@ -1,0 +1,16 @@
+<script>
+
+    var  now=new Date(); 
+    var year = now.getFullYear();
+    var month = now.getMonth()+1;
+    var week = now.getDay();
+    var day = now.getDate();
+    var hours = now.getHours();
+    var minite = now.getMinutes();
+    var second = now.getSeconds();
+
+    var yobi= new Array("日","月","火","水","木","金","土");
+    
+    document.write(year+"年"+month+"月"+day+"日"+yobi[week]+"曜日"+hours+"時"+minite+"分"+second+"秒");
+    
+    </script>
