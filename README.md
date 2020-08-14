@@ -4,7 +4,7 @@ These files are css files, partials and shortcodes for make dark-past sites.
 
 # How to use
 
-##shortcodes
+## shortcodes
 
 ### Print user agents
 
