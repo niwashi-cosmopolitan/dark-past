@@ -46,5 +46,6 @@
 }
 
 .bigborder{
+    display: inline-block;
     border: outset 20px #444444;
 }
